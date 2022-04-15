@@ -16,7 +16,7 @@ The second file that you will use is called `crypto_wallet.py`. This file contai
 
 Integrating these two files will allow you to automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via a personal Ethereum blockchain called Ganache.
 
-PLEASE NOTE: You should contain a .env file with your GANASH mnemonic.
+PLEASE NOTE: You should contain a .env file with your Ganache mnemonic.
 
 ### Application Testing
 
