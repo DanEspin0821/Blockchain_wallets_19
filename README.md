@@ -10,8 +10,6 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 ### What You're Creating
 
-To complete this Challenge, you will use two Python files, both of which are contained in the starter folder.
-
 The first file that you will use is called `fintech_finder.py`. It contains the code associated with the web interface of your application. The code included in this file is compatible with the Streamlit library. You will write all of your code for this Challenge in this file.
 
 The second file that you will use is called `crypto_wallet.py`. This file contains the Ethereum transaction functions that you have created throughout this module’s lessons. By using import statements, you will integrate the `crypto_wallet.py` Python script into the Fintech Finder interface program that is found in the `fintech_finder.py` file.
@@ -22,28 +20,28 @@ Integrating these two files will allow you to automate the tasks associated with
 
 This is the application running prior to making the transaction.
 
-![4](Images/preset.jpg)
+![4](Images/preset.JPG)
 
 Ganache prior to sending funds.
 
-![2](Images/gnash preset.jpg)
+![2](Images/gnash preset.JPG)
 
 Transaction Hash from the application after sending the transaction.
 
-![5](Images/hash.jpg)
+![5](Images/hash.JPG)
 
 This is showing Ganache log of the transaction.
 
-![6](Images/log.jpg)
+![6](Images/log.JPG)
 
 Below is showing the Ganache history of the transaction.
 
-![2](Images/ghist.jpg)
+![2](Images/ghist.JPG)
 
 Account Balance after Submission.
 
-![1](Images/acctbal.jpg)
+![1](Images/acctbal.JPG)
 
 Account Transaction after Submission.
 
-![1](Images/Tranascation.jpg)
+![1](Images/Tranascation.JPG)
