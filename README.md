@@ -24,7 +24,7 @@ This is the application running prior to making the transaction.
 
 Ganache prior to sending funds.
 
-![2](Images/gnash preset.JPG)
+![2](https://github.com/DanEspin0821/Blockchain_wallets_19/blob/main/Images/gnash%20preset.JPG)
 
 Transaction Hash from the application after sending the transaction.
 
